@@ -82,6 +82,24 @@ a{
     text-decoration: none;
 
 }
+.odinlogo{
+    width: 100px;
+    height: 130px;
+}
+.card-body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    background: rgb(0, 0, 0, 0.6);
+
+    color: rgb(255, 255, 255);
+    top: 8rem;
+    text-align: center;
+    font-size: 48px;
+    font-family: norsepro;
+    width:35vw;
+}
 
 @font-face {
     font-family: norsepro;
